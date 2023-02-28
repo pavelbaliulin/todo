@@ -1,0 +1,43 @@
+#todoshka{
+    background-color: #00A591;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+}
+#buttons{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0px;
+  right: 45px;
+}
+h2{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#bussnes{
+  width: 200px;
+  height: 25px;
+  background: white;
+  
+}
+#out{
+  width: 380px;
+  height: 130px;
+  background-color: white;
+  margin: auto;
+  cursor: pointer;
+  
+  
+}
+
+
+
+
